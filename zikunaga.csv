@@ -1,0 +1,2 @@
+#datatype measurement,tag,tag,field,field,ignored,time
+m,cpu,host,time_steal,usage_user,nothing,time
